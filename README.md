@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=Phillip+Leo+Jnr&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=A+learning+individual&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
 </p>
 
-# Hi there, I'm Phillip Leo Jnr 👋
+# Hi there, I'm Phillip Leo Jnr
 
 A brief, 2-3 sentence introduction about who you are, what you are passionate about, and what kind of problems you enjoy solving. Speak to your unique engineering interests here.
 
